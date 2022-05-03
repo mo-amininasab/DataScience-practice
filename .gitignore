@@ -3,8 +3,12 @@
 **.jpg
 **.mp4
 **.ctv
-prerequisite
-.sentry-native
-webinars
+**.joblib
 **.ini
+
+.sentry-native
+.ipynb_checkpoints
+
+prerequisite
+webinars
 env
